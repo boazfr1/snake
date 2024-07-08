@@ -1,0 +1,3 @@
+/home/hilma/development/c++/mySnakeGame/build/CMakeFiles/myapp.dir
+/home/hilma/development/c++/mySnakeGame/build/CMakeFiles/edit_cache.dir
+/home/hilma/development/c++/mySnakeGame/build/CMakeFiles/rebuild_cache.dir
